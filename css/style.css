@@ -1,0 +1,26 @@
+.card{
+    width: 250px;
+    background-color: rgb(68, 68, 86);
+    padding: 15 px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card img{
+    width: 80%;
+    border-radius: 10px;
+}
+
+.comprar{
+    background-color: rgb(215, 201, 229);
+    color: rgb(5, 5, 5);
+    padding: 10%;
+    cursor: pointer;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    gap: 10%;
+    background-color: red;
+}
