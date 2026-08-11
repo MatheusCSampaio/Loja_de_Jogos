@@ -24,3 +24,13 @@
     gap: 10%;
     background-color: red;
 }
+
+.topo {
+    display: flex;
+    gap: 15px;
+}
+
+.catalago{
+    display:flex;
+    gap: 15px;
+}
