@@ -102,3 +102,19 @@ footer {
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0,0,0,0.5);
 }
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+}
+
+.logo h1 {
+    font-size: 60px;
+    color: #fefeff;
+}
